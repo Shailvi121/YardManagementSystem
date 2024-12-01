@@ -45,6 +45,7 @@ namespace YMS.Services
                 RoleID = model.RoleID,
                 IsActive = true,
                 Shift = model.Shift
+                //ff
             };
 
             _context.Users.Add(user);
