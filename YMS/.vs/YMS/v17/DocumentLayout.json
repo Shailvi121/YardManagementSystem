@@ -1,0 +1,547 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\YMSAPI\\YMS\\YMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\yms\\YMS\\YMS\\Services\\IServices\\IStoragePlaceholderService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\inkrisha.DATANIMICS\\source\\repos\\YMS\\YMS\\Dtos\\InspectionDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\inkrisha.DATANIMICS\\source\\repos\\YMS\\YMS\\Migrations\\MesDb\\20241128104707_initload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\inkrisha.DATANIMICS\\source\\repos\\YMS\\YMS\\Migrations\\MesDb\\20241128104147_initload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\inkrisha.DATANIMICS\\source\\repos\\YMS\\YMS\\Migrations\\20241128051015_SeedRoles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\inkrisha.DATANIMICS\\source\\repos\\YMS\\YMS\\Migrations\\20241127085926_initload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\yms\\YMS\\YMS\\Dtos\\InspectionDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\yms\\YMS\\YMS\\Controllers\\InspectionController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\yms\\YMS\\YMS\\Services\\CoilService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\yms\\YMS\\YMS\\Services\\IServices\\IAuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\yms\\YMS\\YMS\\Models\\AuditTrail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\yms\\YMS\\YMS\\Services\\IServices\\ICoilService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\yms\\YMS\\YMS\\Models\\Inspection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\yms\\YMS\\YMS\\Controllers\\CoilController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\yms\\YMS\\YMS\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\yms\\YMS\\YMS\\Services\\IServices\\IUserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\yms\\YMS\\YMS\\Services\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\yms\\YMS\\YMS\\Migrations\\20241128105809_initload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\yms\\YMS\\YMS\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\yms\\YMS\\YMS\\Dtos\\CoilDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\yms\\YMS\\YMS\\Services\\StorageaPlaceholderService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\yms\\YMS\\YMS\\Models\\Coil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\yms\\YMS\\YMS\\Services\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\yms\\YMS\\YMS\\Controllers\\MESController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\yms\\YMS\\YMS\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\yms\\YMS\\YMS\\MESModels\\MESCoil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\yms\\YMS\\YMS\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\yms\\YMS\\YMS\\Migrations\\MesDb\\20241128104917_initload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\yms\\YMS\\YMS\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\yms\\YMS\\YMS\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\yms\\YMS\\YMS\\MESModels\\MESIncomingCoil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\yms\\YMS\\YMS\\Models\\CoilMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\yms\\YMS\\YMS\\YMS.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\yms\\YMS\\YMS\\Models\\StoragePlaceholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\yms\\YMS\\YMS\\Models\\Register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\yms\\YMS\\YMS\\Models\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\yms\\YMS\\YMS\\Models\\Yard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\yms\\YMS\\YMS\\Models\\RolePermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\yms\\YMS\\YMS\\Models\\Role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\yms\\YMS\\YMS\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InspectionDto.cs",
+              "DocumentMoniker": "D:\\yms\\YMS\\YMS\\Dtos\\InspectionDto.cs",
+              "ToolTip": "D:\\yms\\YMS\\YMS\\Dtos\\InspectionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T07:45:21.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InspectionController.cs",
+              "DocumentMoniker": "D:\\yms\\YMS\\YMS\\Controllers\\InspectionController.cs",
+              "ToolTip": "D:\\yms\\YMS\\YMS\\Controllers\\InspectionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T04:43:41.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CoilService.cs",
+              "DocumentMoniker": "D:\\yms\\YMS\\YMS\\Services\\CoilService.cs",
+              "ToolTip": "D:\\yms\\YMS\\YMS\\Services\\CoilService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:52:39.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\yms\\YMS\\YMS\\Services\\IServices\\IAuthService.cs",
+              "ToolTip": "D:\\yms\\YMS\\YMS\\Services\\IServices\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:52:57.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuditTrail.cs",
+              "DocumentMoniker": "D:\\yms\\YMS\\YMS\\Models\\AuditTrail.cs",
+              "ToolTip": "D:\\yms\\YMS\\YMS\\Models\\AuditTrail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:03:15.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IStoragePlaceholderService.cs",
+              "DocumentMoniker": "D:\\yms\\YMS\\YMS\\Services\\IServices\\IStoragePlaceholderService.cs",
+              "ToolTip": "D:\\yms\\YMS\\YMS\\Services\\IServices\\IStoragePlaceholderService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:01:34.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICoilService.cs",
+              "DocumentMoniker": "D:\\yms\\YMS\\YMS\\Services\\IServices\\ICoilService.cs",
+              "ToolTip": "D:\\yms\\YMS\\YMS\\Services\\IServices\\ICoilService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:58:26.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Inspection.cs",
+              "DocumentMoniker": "D:\\yms\\YMS\\YMS\\Models\\Inspection.cs",
+              "ToolTip": "D:\\yms\\YMS\\YMS\\Models\\Inspection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:42:57.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CoilController.cs",
+              "DocumentMoniker": "D:\\yms\\YMS\\YMS\\Controllers\\CoilController.cs",
+              "ToolTip": "D:\\yms\\YMS\\YMS\\Controllers\\CoilController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAcwEwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:04:29.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\yms\\YMS\\YMS\\Program.cs",
+              "ToolTip": "D:\\yms\\YMS\\YMS\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T08:53:28.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\yms\\YMS\\YMS\\Services\\IServices\\IUserService.cs",
+              "ToolTip": "D:\\yms\\YMS\\YMS\\Services\\IServices\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:51:08.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\yms\\YMS\\YMS\\Services\\UserService.cs",
+              "ToolTip": "D:\\yms\\YMS\\YMS\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:49:47.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241128105809_initload.cs",
+              "DocumentMoniker": "D:\\yms\\YMS\\YMS\\Migrations\\20241128105809_initload.cs",
+              "ToolTip": "D:\\yms\\YMS\\YMS\\Migrations\\20241128105809_initload.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:58:09.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\yms\\YMS\\YMS\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\yms\\YMS\\YMS\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:56:10.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CoilDto.cs",
+              "DocumentMoniker": "D:\\yms\\YMS\\YMS\\Dtos\\CoilDto.cs",
+              "ToolTip": "D:\\yms\\YMS\\YMS\\Dtos\\CoilDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:52:05.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InspectionDto.cs",
+              "DocumentMoniker": "C:\\Users\\inkrisha.DATANIMICS\\source\\repos\\YMS\\YMS\\Dtos\\InspectionDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\inkrisha.DATANIMICS\\source\\repos\\YMS\\YMS\\Dtos\\InspectionDto.cs",
+              "ToolTip": "C:\\Users\\inkrisha.DATANIMICS\\source\\repos\\YMS\\YMS\\Dtos\\InspectionDto.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\inkrisha.DATANIMICS\\source\\repos\\YMS\\YMS\\Dtos\\InspectionDto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T05:12:24.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StorageaPlaceholderService.cs",
+              "DocumentMoniker": "D:\\yms\\YMS\\YMS\\Services\\StorageaPlaceholderService.cs",
+              "ToolTip": "D:\\yms\\YMS\\YMS\\Services\\StorageaPlaceholderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:02:32.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Coil.cs",
+              "DocumentMoniker": "D:\\yms\\YMS\\YMS\\Models\\Coil.cs",
+              "ToolTip": "D:\\yms\\YMS\\YMS\\Models\\Coil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T09:07:29.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\yms\\YMS\\YMS\\Services\\AuthService.cs",
+              "ToolTip": "D:\\yms\\YMS\\YMS\\Services\\AuthService.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwFgAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:54:13.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MESController.cs",
+              "DocumentMoniker": "D:\\yms\\YMS\\YMS\\Controllers\\MESController.cs",
+              "ToolTip": "D:\\yms\\YMS\\YMS\\Controllers\\MESController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T03:28:05.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\yms\\YMS\\YMS\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\yms\\YMS\\YMS\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T03:37:19.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MESCoil.cs",
+              "DocumentMoniker": "D:\\yms\\YMS\\YMS\\MESModels\\MESCoil.cs",
+              "ToolTip": "D:\\yms\\YMS\\YMS\\MESModels\\MESCoil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:16:50.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\yms\\YMS\\YMS\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\yms\\YMS\\YMS\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T08:56:24.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20241128104917_initload.cs",
+              "DocumentMoniker": "D:\\yms\\YMS\\YMS\\Migrations\\MesDb\\20241128104917_initload.cs",
+              "ToolTip": "D:\\yms\\YMS\\YMS\\Migrations\\MesDb\\20241128104917_initload.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:49:18.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241128104707_initload.cs",
+              "DocumentMoniker": "C:\\Users\\inkrisha.DATANIMICS\\source\\repos\\YMS\\YMS\\Migrations\\MesDb\\20241128104707_initload.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\inkrisha.DATANIMICS\\source\\repos\\YMS\\YMS\\Migrations\\MesDb\\20241128104707_initload.cs",
+              "ToolTip": "C:\\Users\\inkrisha.DATANIMICS\\source\\repos\\YMS\\YMS\\Migrations\\MesDb\\20241128104707_initload.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\inkrisha.DATANIMICS\\source\\repos\\YMS\\YMS\\Migrations\\MesDb\\20241128104707_initload.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:47:07.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\yms\\YMS\\YMS\\WeatherForecast.cs",
+              "ToolTip": "D:\\yms\\YMS\\YMS\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:45:38.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\yms\\YMS\\YMS\\appsettings.json",
+              "ToolTip": "D:\\yms\\YMS\\YMS\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-27T08:54:21.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241128104147_initload.cs",
+              "DocumentMoniker": "C:\\Users\\inkrisha.DATANIMICS\\source\\repos\\YMS\\YMS\\Migrations\\MesDb\\20241128104147_initload.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\inkrisha.DATANIMICS\\source\\repos\\YMS\\YMS\\Migrations\\MesDb\\20241128104147_initload.cs",
+              "ToolTip": "C:\\Users\\inkrisha.DATANIMICS\\source\\repos\\YMS\\YMS\\Migrations\\MesDb\\20241128104147_initload.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\inkrisha.DATANIMICS\\source\\repos\\YMS\\YMS\\Migrations\\MesDb\\20241128104147_initload.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwBcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:41:47.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MESIncomingCoil.cs",
+              "DocumentMoniker": "D:\\yms\\YMS\\YMS\\MESModels\\MESIncomingCoil.cs",
+              "ToolTip": "D:\\yms\\YMS\\YMS\\MESModels\\MESIncomingCoil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:17:51.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CoilMovement.cs",
+              "DocumentMoniker": "D:\\yms\\YMS\\YMS\\Models\\CoilMovement.cs",
+              "ToolTip": "D:\\yms\\YMS\\YMS\\Models\\CoilMovement.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T08:56:18.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "YMS.csproj",
+              "DocumentMoniker": "D:\\yms\\YMS\\YMS\\YMS.csproj",
+              "ToolTip": "D:\\yms\\YMS\\YMS\\YMS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-27T08:54:32.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "StoragePlaceholder.cs",
+              "DocumentMoniker": "D:\\yms\\YMS\\YMS\\Models\\StoragePlaceholder.cs",
+              "ToolTip": "D:\\yms\\YMS\\YMS\\Models\\StoragePlaceholder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:20:26.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241128051015_SeedRoles.cs",
+              "DocumentMoniker": "C:\\Users\\inkrisha.DATANIMICS\\source\\repos\\YMS\\YMS\\Migrations\\20241128051015_SeedRoles.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\inkrisha.DATANIMICS\\source\\repos\\YMS\\YMS\\Migrations\\20241128051015_SeedRoles.cs",
+              "ToolTip": "C:\\Users\\inkrisha.DATANIMICS\\source\\repos\\YMS\\YMS\\Migrations\\20241128051015_SeedRoles.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\inkrisha.DATANIMICS\\source\\repos\\YMS\\YMS\\Migrations\\20241128051015_SeedRoles.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:10:15.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\yms\\YMS\\YMS\\Models\\Register.cs",
+              "ToolTip": "D:\\yms\\YMS\\YMS\\Models\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:46:46.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\yms\\YMS\\YMS\\Models\\Login.cs",
+              "ToolTip": "D:\\yms\\YMS\\YMS\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:47:07.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Yard.cs",
+              "DocumentMoniker": "D:\\yms\\YMS\\YMS\\Models\\Yard.cs",
+              "ToolTip": "D:\\yms\\YMS\\YMS\\Models\\Yard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:20:34.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RolePermission.cs",
+              "DocumentMoniker": "D:\\yms\\YMS\\YMS\\Models\\RolePermission.cs",
+              "ToolTip": "D:\\yms\\YMS\\YMS\\Models\\RolePermission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:40:07.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\yms\\YMS\\YMS\\Models\\Role.cs",
+              "ToolTip": "D:\\yms\\YMS\\YMS\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T03:34:53.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241127085926_initload.cs",
+              "DocumentMoniker": "C:\\Users\\inkrisha.DATANIMICS\\source\\repos\\YMS\\YMS\\Migrations\\20241127085926_initload.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\inkrisha.DATANIMICS\\source\\repos\\YMS\\YMS\\Migrations\\20241127085926_initload.cs",
+              "ToolTip": "C:\\Users\\inkrisha.DATANIMICS\\source\\repos\\YMS\\YMS\\Migrations\\20241127085926_initload.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\inkrisha.DATANIMICS\\source\\repos\\YMS\\YMS\\Migrations\\20241127085926_initload.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T08:59:27.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\yms\\YMS\\YMS\\Models\\User.cs",
+              "ToolTip": "D:\\yms\\YMS\\YMS\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T08:56:41.355Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
